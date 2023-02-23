@@ -1,0 +1,32 @@
+<!DOTYPE html>
+ <html>
+   <head>
+    <title>HTML and CSS learning resources</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Passion One">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bebas Neue">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gruppo">
+<style>
+h2 {
+  font-family: "Passion One", Display;
+}
+
+h1 { font-family: "Bebas Neue", Display;}
+p {font-family: "Gruppo", Display;}
+li {font-family: "Gruppo", Display;}
+
+</style>
+   </head>
+   <body>
+   <h1>Resources for learning HTML and CSS</h1>
+     <p><strong>These are resources I wanted to share for learning HTML and CSS that we use in my DIT class at school so you can learn if you want! :D</strong></p>
+     <p><strong>Below this paragraph will be resources that my teacher uses to have us learn HTML and CSS, I reccomend keeping a folder on your computer thats dedicated to this stuff so everything isn't everywhere</strong></p>
+    <h2>LIST OF RESOURCES</h2>
+    <ul>
+      <li><strong><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" target="_blank"> Free Code Camp: Responsive web design</strong></a></li>
+      <li><strong><a href="https://www.w3schools.com/" target="_blank"> W3schools: Tutorials for learning HTML and CSS (hands on-y, it lets you try the stuff out yourself)</strong></a></li>
+      <li><strong><a href="https://neocities.org/tutorials" target=_"blank"> Neocities Tutorials: We don't use these in class but I thought this would be nice to include nonetheless</strong></a></li>
+   </ul>
+  <p><strong>I'll be sure to keep this updated if any new stuff pops up or anything :)</strong></p>
+  <p><strong>-Sawyer :3</strong></p>
+  </body>
+</html>
